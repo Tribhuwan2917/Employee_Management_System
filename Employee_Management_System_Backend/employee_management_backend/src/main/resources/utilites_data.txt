@@ -1,0 +1,4 @@
+host:smtp.gmail.com
+port:587
+userName:electronics8499@gmail.com
+password:
