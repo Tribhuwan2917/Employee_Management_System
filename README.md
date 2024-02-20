@@ -1,5 +1,5 @@
 Installation:
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone https://github.com/Tribhuwan2917/Employee_Management_System.git
 Set up the database using the SQL scripts.
 Configure the system settings in the config file.
 Run the backend application by using the any IDE(InteliJ Idea , eclipse or any other.)
